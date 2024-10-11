@@ -3,7 +3,7 @@ hidden: true
 noIndex: true
 ---
 
-# CUSD Issuance Policy
+# Copy of CUSD Issuance Policy
 
 _**Last Updated on 1 September 2022.**_
 

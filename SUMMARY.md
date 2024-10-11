@@ -334,7 +334,7 @@
 
 * [Terms of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
-* [AML Policy](legal/\_qwerty\_aml-policy.md)
+* [Copy of AML Policy](legal/reviewing\_aml-policy.md)
 * [Launchpad Policy](legal/\_qwerty\_launchpad-policy.md)
 * [CUSD Issuance Policy](legal/\_qwerty\_cusd-issuance-policy.md)
 
